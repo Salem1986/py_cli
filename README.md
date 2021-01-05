@@ -9,6 +9,6 @@ To install this cli tool execute the install.sh shell script.
 
 ##Usage
 
-For more information on how to use this CLI use --help argument. 
+For more information on how to use this CLI use --help flag. 
 
 

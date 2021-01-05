@@ -1,14 +1,14 @@
-*What arguments are needed? What does it suppose to do?*
+#py_cli
 
-1. log in a sftp server and refer to target files
-1.1. ip
-1.2. Password
-1.3. path to files
-1.4. file names
+This is a tool to automate the process of converting xlsx files into csv. 
+There may be a use case at work where you frequently have to turn MS Excel files into a easy to handle csv file that meets certain formatting conditions.
 
-2. convert xlsx files to csv files
-2.1. delimiter ,
-2.2. encoding UTF-8
-2.3. quoting
-2.4. date handling
-2.5. decimal 
+##Installation
+
+To install this cli tool execute the install.sh shell script.
+
+##Usage
+
+For more information on how to use this CLI use --help argument. 
+
+
